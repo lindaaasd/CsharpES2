@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1U2CEr2YYW/+3pWsyYvq+U5jlAcCtXe76zhRew8F+uPHDsKa7p77LjCtzRPpCi4byj7OSooe4rleHxfT9xOTA==",
+  "success": true,
+  "projectFilePath": "/Users/lindaaa/Downloads/Week2---PreAcademyF-main/Week2.EsercizioAutomobili/Week2.EsercizioAutomobili.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindaaa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

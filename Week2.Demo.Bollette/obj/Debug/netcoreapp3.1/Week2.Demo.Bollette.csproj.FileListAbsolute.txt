@@ -1,0 +1,14 @@
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\bin\Debug\netcoreapp3.1\Week2.Demo.Bollette.exe
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\bin\Debug\netcoreapp3.1\Week2.Demo.Bollette.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\bin\Debug\netcoreapp3.1\Week2.Demo.Bollette.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\bin\Debug\netcoreapp3.1\Week2.Demo.Bollette.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\bin\Debug\netcoreapp3.1\Week2.Demo.Bollette.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\bin\Debug\netcoreapp3.1\Week2.Demo.Bollette.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.Bollette\obj\Debug\netcoreapp3.1\Week2.Demo.Bollette.genruntimeconfig.cache

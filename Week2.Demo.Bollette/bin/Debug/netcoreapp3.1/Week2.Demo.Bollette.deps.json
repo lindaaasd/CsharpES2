@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Week2.Demo.Bollette/1.0.0": {
+        "runtime": {
+          "Week2.Demo.Bollette.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week2.Demo.Bollette/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

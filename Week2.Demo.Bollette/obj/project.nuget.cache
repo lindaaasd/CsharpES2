@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLbUAyYNDJBksVH7B5jBILGjOxQHQD0C8GkTTu4R5u7iuXcHpVwlnKjN9REt56k3O3OBKic/DV0vTt7A5ImbKw==",
+  "success": true,
+  "projectFilePath": "/Users/lindaaa/Downloads/Week2---PreAcademyF-main/Week2.Demo.Bollette/Week2.Demo.Bollette.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindaaa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

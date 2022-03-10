@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a607796e-7bc8-458f-9a41-e984cdbdb5bd": {
+      "ProjectGuid": "a607796e-7bc8-458f-9a41-e984cdbdb5bd",
+      "DisplayName": "Week2.Demo",
+      "ColorIndex": 0
+    },
+    "c508c0a7-f57b-497b-91fa-f8716c24df8e": {
+      "ProjectGuid": "c508c0a7-f57b-497b-91fa-f8716c24df8e",
+      "DisplayName": "Week2.Demo",
+      "ColorIndex": 1
+    },
+    "4fe43c97-9a38-480a-a3e3-07f3e1c6de62": {
+      "ProjectGuid": "4fe43c97-9a38-480a-a3e3-07f3e1c6de62",
+      "DisplayName": "Week2.Demo.ScuolaDanza",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0cbe1456-462c-4e91-94d2-933cbd341b98": {
+      "ProjectGuid": "0cbe1456-462c-4e91-94d2-933cbd341b98",
+      "DisplayName": "Week2.Demo.Copisteria",
+      "ColorIndex": 3
+    },
+    "8c90d52b-9f8b-40cf-a28c-7348c80f1524": {
+      "ProjectGuid": "8c90d52b-9f8b-40cf-a28c-7348c80f1524",
+      "DisplayName": "Week2.GestioneCopisteria",
+      "ColorIndex": 4
+    },
+    "c4a7fe65-8cdb-41c7-90d6-c56be50c0cd0": {
+      "ProjectGuid": "c4a7fe65-8cdb-41c7-90d6-c56be50c0cd0",
+      "DisplayName": "Week2.GestioneAlbergo",
+      "ColorIndex": 5
+    },
+    "25d8cc92-ae9c-4f51-9dc4-1162c696be48": {
+      "ProjectGuid": "25d8cc92-ae9c-4f51-9dc4-1162c696be48",
+      "DisplayName": "Week2.Demo.Bollette",
+      "ColorIndex": 6
+    },
+    "2e80180a-fb78-4cfb-b6af-dfc7901e11fa": {
+      "ProjectGuid": "2e80180a-fb78-4cfb-b6af-dfc7901e11fa",
+      "DisplayName": "Week2.EsercizioAutomobili",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

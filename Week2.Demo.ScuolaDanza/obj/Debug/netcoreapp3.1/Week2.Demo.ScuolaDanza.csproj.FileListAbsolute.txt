@@ -1,0 +1,14 @@
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\bin\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.exe
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\bin\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\bin\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\bin\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\bin\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\bin\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.Demo.ScuolaDanza\obj\Debug\netcoreapp3.1\Week2.Demo.ScuolaDanza.genruntimeconfig.cache

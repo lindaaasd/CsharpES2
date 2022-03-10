@@ -1,0 +1,14 @@
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\bin\Debug\netcoreapp3.1\Week2.GestioneAlbergo.exe
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\bin\Debug\netcoreapp3.1\Week2.GestioneAlbergo.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\bin\Debug\netcoreapp3.1\Week2.GestioneAlbergo.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\bin\Debug\netcoreapp3.1\Week2.GestioneAlbergo.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\bin\Debug\netcoreapp3.1\Week2.GestioneAlbergo.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\bin\Debug\netcoreapp3.1\Week2.GestioneAlbergo.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.dll
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week2.Demo\Week2.GestioneAlbergo\obj\Debug\netcoreapp3.1\Week2.GestioneAlbergo.genruntimeconfig.cache

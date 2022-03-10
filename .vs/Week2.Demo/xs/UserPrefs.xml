@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2E80180A-FB78-4CFB-B6AF-DFC7901E11FA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Week2.Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week2.EsercizioAutomobili/VeicoliOI.cs">
+    <Files>
+      <File FileName="Week2.EsercizioAutomobili/Entities/Veicolo.cs" Line="71" Column="10" />
+      <File FileName="Week2.EsercizioAutomobili/VeicoliOI.cs" Line="41" Column="23" />
+      <File FileName="Week2.EsercizioAutomobili/Program.cs" Line="65" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week2.Demo" expanded="True">
+            <Node name="Week2.Demo" expanded="True" />
+            <Node name="Week2.EsercizioAutomobili" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="VeicoliOI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Week2.EsercizioAutomobili PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lindaaa/Downloads/Week2---PreAcademyF-main/Week2.EsercizioAutomobili/VeicoliOI.cs" relfile="Week2.EsercizioAutomobili/VeicoliOI.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
